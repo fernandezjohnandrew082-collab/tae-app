@@ -1,5 +1,5 @@
-import Footer from "@/components/public/footer";
-import Header from "@/components/public/header";
+import Footer from "@/components/shop/footer";
+import Header from "@/components/shop/header";
 
 export default function RootLayout({
   children,
